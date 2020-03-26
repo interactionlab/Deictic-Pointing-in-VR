@@ -1,3 +1,11 @@
+**/.ipynb_checkpoints
+/study1/zip/
+/study1/data/
+/study1/out/
+/study2/zip/
+/study2/data/
+/study2/out/
+
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore

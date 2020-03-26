@@ -1,0 +1,25 @@
+StudyID,ParticipantID,Age,Gender,Height,Handedness,EyeDominance,Home Country,Profession,# VR,VR device
+1,1,25,m,194,right,right,Germany,"Student, self-employed",>3,Vive/Oculus/Cardboard
+1,2,20,f,190,right,left,Germany,Student,>3,no
+2,3,26,m,175,right,right,India,Student,1-2,no
+2,4,25,m,174,right,left,Germany,Student,1-2,no
+3,5,35,m,178,right,right,Argentina,PhD Student,no
+3,6,22,f,160,right,right,Germany,Student,1-2,no
+4,7,23,m,187,right,right,Germany,Student,>3,no
+4,8,22,m,195,right,right,Germany,Student,>3,no
+5,9,21,m,180,right,left,France,Student,1-2,no
+5,10,27,m,190,right,left,Germany,Student,>3,no
+6,11,21,f,169,right,left,Germany,Student,>3,no
+6,12,23,m,180,right,left,Germany,Student,1-2,no
+7,13,31,m,180,right,right,Germany,Student,>3,no
+7,14,17,m,178,right,left,Germany,Student,never,no
+8,15,21,m,180,right,right,Germany,Student,>3,no
+8,16,23,m,197,right,right,Germany,Student,1-2,no
+9,17,22,m,185,right,right,Germany,Student,never,no
+9,18,22,f,170,right,right,Germany,Student,>3,no
+10,19,24,m,188,right,left,Kosovo,Student,1-2,no
+10,20,22,m,174,right,left,Germany,Medieninformatin,>3,no
+11,21,32,m,185,both,both,Spain,Student,>3,GearVR
+11,22,26,f,160,right,both,India,Student,1-2,no
+12,23,22,m,179,right,right,Egypt,Student,never,no
+12,24,21,m,185,right,right,Egypt,Student,1-2,no
